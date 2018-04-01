@@ -1,0 +1,6 @@
+[package]
+name = "redis-wire"
+version = "0.1.0"
+authors = ["Yosef da Iry <yosefda@gmail.com>"]
+
+[dependencies]
